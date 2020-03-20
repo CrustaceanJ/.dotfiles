@@ -1,1 +1,1 @@
-Dot files to vim and bash
+Dot files for vim and bash
